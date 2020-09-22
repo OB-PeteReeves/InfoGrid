@@ -1,0 +1,18 @@
+<!-- Module Include File -->
+<!-- Types -->
+<types>
+  <!-- Type Example:<type name="MyClass" class="com.acme.BMyClass"/> -->
+  <!--com.optimised_buildings_ltd.InfoGrid-->
+  <type class="com.optimised_buildings_ltd.InfoGrid.BInfoGridAPI" name="InfoGridAPI"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.BInfoGridDevice" name="InfoGridDevice"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.BInfoGridDeviceFolder" name="InfoGridDeviceFolder"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.BInfoGridNetwork" name="InfoGridNetwork"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.BInfoGridNumericSensor" name="InfoGridNumericSensor"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.BInfoGridPointDeviceExt" name="InfoGridPointDeviceExt"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.BInfoGridPointFolder" name="InfoGridPointFolder"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.BInfoGridProxyExt" name="InfoGridProxyExt"/>
+  <!--com.optimised_buildings_ltd.InfoGrid.data-->
+  <type class="com.optimised_buildings_ltd.InfoGrid.data.BReading" name="Reading"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.data.BBatteryStatus" name="BatteryStatus"/>
+  <type class="com.optimised_buildings_ltd.InfoGrid.data.BNetworkStatus" name="NetworkStatus"/>
+</types>
